@@ -1,7 +1,7 @@
 [
     {
         "instruction": "hi",
-        "input": "",
+        "input": "?",
         "output": "<think>\nOkay, the user said \"hi\". I need to respond politely and offer help related to Huawei Datacom.\n\nFirst, greet them back. Then mention Huawei Datacom and NCE. Ask how I can assist today. Keep it friendly and open-ended. Make sure to use the full names as per the background. Avoid technical jargon but stay professional. Check for any typos. Alright, that should cover it.\n</think>\n\nHello! Welcome to the Huawei Datacom knowledge base. As an assistant specializing in Huawei's Data Communication field and technologies supported by the Network Cloud Engine (NCE) Data Communication Technology Laboratory, I'm here to help with your technical questions, configurations, or best practices. How can I assist you today?"
     },
     {
